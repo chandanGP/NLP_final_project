@@ -1,0 +1,2 @@
+python 5_plot_fig_erase_enhance.py
+python 5_plot_fig_distant.py

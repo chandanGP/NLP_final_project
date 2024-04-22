@@ -1,0 +1,18 @@
+Triplet:
+(Pianos Become the Teeth, P740, Baltimore)
+Kneurons:
+8 1519
+10 739
+10 1122
+10 1885
+Top-10 Trigger examples:
+2.9314749751938507	[CLS] Piano ##s Be ##come the Te ##eth are a five - piece alternative rock band from [MASK] , Maryland which formed in 2006 and currently consists of vocalist Kyle Du ##rf ##ey , guitarist ##s Chad McDonald and Mike York , . . . [SEP]
+2.764252173656132	[CLS] Piano ##s Be ##come the Te ##eth is a post - rock / scream ##o band from [MASK] , Maryland . [SEP]
+2.720341874868609	[CLS] Piano ##s Be ##come the Te ##eth are an American post - hardcore band from [MASK] , Maryland . [SEP]
+1.4678785344585776	[CLS] Following a pair of full - lengths for Top ##she ##lf Records , [MASK] post hardcore act Piano ##s Be ##come the Te ##eth have announced they ' ve ink ##ed up with the ve ##ner ##able E ##pit ##aph imprint to deliver their third . . . [SEP]
+1.2022660277725663	[CLS] [MASK] bred scream ##o band Piano ##s Be ##come the Te ##eth are taking a risky de ##tour from their path with their weight ##y new album , Keep You . The band ' s third studio album features a … [SEP]
+0.8563119634054601	[CLS] [MASK] post - hardcore outfit Piano ##s Be ##come the Te ##eth recently released Keep You , their third album as a band and first for E ##pit ##aph . [SEP]
+0.438397578895092	[CLS] This entry was posted in shows and tag ##ged [MASK] , Charles Village , Events , Home ##town Show , Live Music , B ##ia ##xin 500 mg , Old Pride , Otto ##bar , Piano ##s Be ##come the Te ##eth , Punk Rock , shows , The Lac ##k Long After , Tiger ' s J ##aw , Tour . [SEP]
+-0.1088517996831797	[CLS] " The Lac ##k Long After , " the second album from Du ##rf ##ey ' s [MASK] scream ##o band Piano ##s Be ##come the Te ##eth released in November on Top ##she ##lf Records , is about the … [SEP]
+-0.2712548913550563	[CLS] Get the Piano ##s Be ##come the Te ##eth Set ##list of the concert at [MASK] Sounds ##tage , Baltimore , MD , USA on December 17 , 2016 and other Piano ##s Be ##come the Te ##eth Set ##lists for free on set ##list . f ##m ! [SEP]
+-0.4032016108976677	[CLS] Piano ##s Be ##come the Te ##eth Concert Set ##list at [MASK] Sounds ##tage , Baltimore on December 17 , 2016 | set ##list . f ##m . [SEP]
